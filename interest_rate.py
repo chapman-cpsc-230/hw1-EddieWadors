@@ -12,5 +12,4 @@ A=1000
 P=.05
 years = 3
 sum = float (A * (1 + P/100)**years)
-print sum
 print "the sum of money after three years of interest would be %.2f" % sum
